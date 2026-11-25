@@ -29,3 +29,7 @@ The entry is the agent's excuse: it did not miss the deadline — it delivered t
 - Against the strongest live rival (iriantotwo1's hallucinated-calendar line): **0.75** on AxForge (both calls agreeing, margins 3+2) and **0.55** on APINex — mini-panel cleared, same winner on both routes, decisive aggregate above the 0.65 bar.
 - Against the best-ever benchmark (our best-line winner c11-plants): **0.90** on AxForge.
 - Against the runner-up sibling (E1-tz): **0.75** on AxForge.
+
+## Build notes
+
+E5 was chosen by the duel gate: it beat the strongest live rival 0.75 on AxForge and 0.55 on APINex, with the same winner on both routes, and scored 0.90 against our best-line winner c11. This entry is the r1 safety-net submission for blind round 1, filed ahead of the ~12:04 WIB cutoff today so a judged entry is in the field while later rounds keep iterating.
